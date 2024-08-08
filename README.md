@@ -1,11 +1,9 @@
 # kargakargafrontendcase
- 
-# Installation
 
-git clone 
+## Installation
 
-npm install npm install --legacy-peer-deps
-
-# Run
-
+```sh
+git clone https://github.com/volkanerene/kargakargafrontendcase.git
+cd kargakargafrontendcase
+npm install --legacy-peer-deps
 npm run dev
