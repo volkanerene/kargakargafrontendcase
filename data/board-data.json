@@ -1,0 +1,70 @@
+[
+    {
+      "name": "Open",
+      "items": [
+        {
+          "id": 1,
+          "priority": 0,
+          "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis tincidunt leo, sit amet commodo lacus consectetur id.",
+          "description": "This is a detailed description of the task.",
+          "status": "Open",
+          "chat": 22.072024,
+          "attachment": 3,
+          "assignees": [
+            {
+              "avt": "https://randomuser.me/api/portraits/men/75.jpg"
+            }
+          ],
+          "activity": [
+            "Lana Steiner invited Alisa Hester to the team",
+            "Demi Wilkinson invited Alisa Hester to the team",
+            "Candice Wu commented in Marketing site redesign"
+          ]
+        },
+        {
+          "id": 2,
+          "priority": 2,
+          "title": "İkinci Görev",
+          "description": "This is a detailed description of the task.",
+          "status": "In Progress",
+          "chat": 15.072024,
+          "attachment": 1,
+          "assignees": [
+            {
+              "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+            }
+          ],
+          "activity": [
+            "Lana Steiner invited Alisa Hester to the team",
+            "Demi Wilkinson invited Alisa Hester to the team",
+            "Candice Wu commented in Marketing site redesign"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Board Title",
+      "items": [
+        {
+          "id": 4,
+          "priority": 1,
+          "title": "Üçüncü Görev",
+          "description": "This is a detailed description of the task.",
+          "status": "Pending Review",
+          "chat": 10.072024,
+          "attachment": 2,
+          "assignees": [
+            {
+              "avt": "https://randomuser.me/api/portraits/men/79.jpg"
+            }
+          ],
+          "activity": [
+            "Lana Steiner invited Alisa Hester to the team",
+            "Demi Wilkinson invited Alisa Hester to the team",
+            "Candice Wu commented in Marketing site redesign"
+          ]
+        }
+      ]
+    }
+  ]
+  
